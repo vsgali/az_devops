@@ -7,3 +7,8 @@ resource "azurerm_resource_group" "rg2" {
     name = "devopsb27rg2"
     location = "westus"
 }
+
+resource "azurerm_resource_group" "rg3" {
+    name = "devopsb27rg3"
+    location = "westus"
+}
