@@ -27,4 +27,3 @@ resource "azurerm_subnet" "subnet-3" {
   address_prefixes     = ["10.27.3.0/24"]
 }
 
-pradeep
