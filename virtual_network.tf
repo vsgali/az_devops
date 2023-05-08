@@ -26,3 +26,5 @@ resource "azurerm_subnet" "subnet-3" {
   virtual_network_name =  azurerm_virtual_network.vnet1.name
   address_prefixes     = ["10.27.3.0/24"]
 }
+
+pradeep
